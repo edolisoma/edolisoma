@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=90&lines=VLADISLAV+MOROZOV+%2F%2F+MOROZ314;Full-Stack+Engineer+%26+Web+Product+Builder;" alt="Typing SVG" />
+
 # Привет! 👋
 
 ### 👨‍💻 Обо мне
