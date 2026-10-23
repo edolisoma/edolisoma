@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1a24&text=DEVELOPER%20PROFILE&fontSize=40&fontColor=ffffff&height=150" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=90&lines=Elisey+Grigorev+%2F%2F+edolisoma;Full-Stack+Engineer+%26+Web+Product+Builder;" alt="Typing SVG" />
 </p>
 
