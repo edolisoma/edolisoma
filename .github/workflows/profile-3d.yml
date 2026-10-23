@@ -5,12 +5,15 @@ on:
     - cron: "0 18 * * *" # Запуск каждый вечер
   workflow_dispatch:
 
+permissions:
+  contents: write # Даем права на запись файлов прямо в коде
+
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4 # Обновили до актуальной v4
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -20,5 +23,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A .
-          git commit -m "Generated 3D Profile Contrib"
+          git commit -m "Generated 3D Profile Contrib" || exit 0 # Если изменений нет, не падаем с ошибкой
           git push
