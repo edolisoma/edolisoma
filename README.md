@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=90&lines=Elisey+Grigorev+%2F%2F+edolisoma;Full-Stack+Engineer+%26+Web+Product+Builder;" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=90&lines=Elisey+Grigorev+%2F%2F+edolisoma;Full-Stack+Engineer+%26+Web+Product+Builder;" alt="Typing SVG" />
+</p>
 
 # Привет! 👋
 
@@ -7,27 +9,41 @@
 
 * 🔭 **Текущий фокус:** Прокачиваю алгоритмическую базу, изучаю структуры данных и готовлюсь к студенческим олимпиадам по программированию.
 * 🌱 **Процесс обучения:** Углубляю знания Python (прохожу курс от University of Helsinki на MOOC.fi), осваиваю дискретную математику и параллельно начинаю погружаться в C++.
-* 🏆 **Соревнования:** Участвую в олимпиадах по программированию (включая ICPC) и математических хакатонах/конкурсах.
+* 🏆 **Соревнования:** Участвую в олимпиадах по программированию (включая ICPC) и математических хакатонах/конкурсах. Увлекаюсь горными лыжами.
 * ⚡ **Интересы:** Помимо написания кода, занимаюсь инженерным 3D-моделированием.
+
+---
+
+### 🏆 Мои GitHub Трофеи
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ### 🛠️ Мой технологический стек
 
-* **Языки программирования:** Python, C++ (в процессе освоения)
-* **Инструменты и среды разработки:** VS Code, Git & GitHub
-* **Инженерный софт:** КОМПАС-3D
+* **Языки программирования:** 
+  ![Python](https://shields.io) ![C++](https://shields.io)
+* **Инструменты и среды разработки:** 
+  ![VS Code](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io)
+* **Инженерный софт:** 
+  ![КОМПАС-3D](https://shields.io)
 
 ---
 
 ### 📊 Моя GitHub Статистика
 
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Langs" width="48%" />
+<p align="center">
+  <img src="https://vercel.app" width="48%" />
+  <img src="https://vercel.app" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://herokuapp.com" width="97%" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🤝 Связь
-* ✈️ Telegram: Если мы участвуем в одних олимпиадах или хакатонах — всегда рад обсудить интересную задачу или алгоритм!
+* ✈️ **Telegram:** Если мы участвуем в одних олимпиадах или хакатонах — всегда рад обсудить интересную задачу или алгоритм!
