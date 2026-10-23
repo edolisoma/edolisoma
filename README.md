@@ -7,7 +7,7 @@
 </p>
 
 # <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=8b949e&center=true&vCenter=true&width=500&height=50&lines=Aspiring+Full-Stack+Engineer;Competitive+Programmer;3D+Modeling+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=8b949e&center=true&vCenter=true&width=500&height=50&lines=Aspiring+Full-Stack+Engineer;Driven+by+algorithms;focused+on+solving+complex+logical+problems.;3D+Modeling+Enthusiast" />
 </p>
 
 
