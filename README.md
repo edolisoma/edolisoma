@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1a24&text=DEVELOPER%20PROFILE&fontSize=40&fontColor=ffffff&height=150" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1a24&text=DEVELOPER%20PROFILE&fontSize=40&fontColor=58a6ff&height=150" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 # <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=Aspiring+Full-Stack+Engineer;Competitive+Programmer;3D+Modeling+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=8b949e&center=true&vCenter=true&width=500&height=50&lines=Aspiring+Full-Stack+Engineer;Competitive+Programmer;3D+Modeling+Enthusiast" />
 </p>
 
 
