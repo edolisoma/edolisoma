@@ -8,7 +8,7 @@
 Я начинающий разработчик и студент, увлекающийся алгоритмами, решением сложных логических задач и спортивным программированием. Активно развиваю навыки самостоятельного обучения и стремлюсь к глубокому пониманию Computer Science.
 
 * 🔭 **Текущий фокус:** Прокачиваю алгоритмическую базу, изучаю структуры данных и готовлюсь к студенческим олимпиадам по программированию.
-* 🌱 **Процесс обучения:** Углубляю знания Python (прохожу курс от University of Helsinki на MOOC.fi), осваиваю дискретную математику и параллельно начинаю погружаться в C++.
+* 🌱 **Процесс обучения:** Углубляю знания Python (прохожу курс от University of Helsinki ), осваиваю дискретную математику и параллельно начинаю погружаться в C++.
 * 🏆 **Соревнования:** Участвую в олимпиадах по программированию (включая ICPC) и математических хакатонах/конкурсах.
 * ⚡ **Интересы:** Занимаюсь инженерным 3D-моделированием. Катаюсь на горных лыжах.
 
@@ -16,7 +16,7 @@
 
 ### 🏆 Мои GitHub Трофеи
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edolisoma&theme=flat&column=7&margin-w=15" />
+  <img src="[https://github-profile-trophy.vercel.app/?username=edolisoma&theme=flat&column=7&margin-w=15](https://github-profile-trophy.vercel.app/?username=edolisoma&theme=flat&column=7&margin-w=15)" />
 </p>
 
 
@@ -28,7 +28,7 @@
   <img src="[https://shields.io](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)" alt="VS Code" /> <img src="[https://shields.io](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)" alt="Git" /> <img src="[https://shields.io](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)" alt="GitHub" />
 * **Инженерный софт:** 
   <img src="[https://shields.io](https://img.shields.io/badge/КОМПАС--3D-009BDF?style=flat-square&logo=autodesk&logoColor=white)" alt="КОМПАС-3D" />
-
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" />
 ---
 
 ### 📊 Моя GitHub Статистика
