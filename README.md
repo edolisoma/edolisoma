@@ -53,6 +53,10 @@
 </p>
 
 ---
+### 📊 Мой 3D Инженерный Код-Профиль
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Profile Contrib" />
+</p>
 
 ### 🤝 Связь
 * ✈️ **Telegram:** [@edolisoma](https://t.me)
