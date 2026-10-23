@@ -13,9 +13,10 @@
 * ⚡ **Интересы:** Занимаюсь инженерным 3D-моделированием. Катаюсь на горных лыжах.
 
 ---
+
 ### 🏆 Мои GitHub Трофеи
 <p align="center">
-  <img src="https://github-profile-trophy-six.vercel.app/?username=edolisoma&theme=flat&column=7&margin-w=15" />
+  <img src="https://githubreadmestats.vercel.app/api/trophies?username=edolisoma&theme=radical" />
 </p>
 
 
