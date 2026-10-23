@@ -6,7 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=90&lines=Elisey+Grigorev+%2F%2F+edolisoma;Full-Stack+Engineer+%26+Web+Product+Builder;" alt="Typing SVG" />
 </p>
 
-# Привет! 👋
+# <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=Aspiring+Full-Stack+Engineer;Competitive+Programmer;3D+Modeling+Enthusiast" />
+</p>
+
 
 ### 👨‍💻 Обо мне
 Я начинающий разработчик и студент, увлекающийся алгоритмами, решением сложных логических задач и спортивным программированием. Активно развиваю навыки самостоятельного обучения и стремлюсь к глубокому пониманию Computer Science.
