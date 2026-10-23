@@ -54,4 +54,10 @@
 
 ### 🤝 Связь
 * ✈️ **Telegram:** [@edolisoma](https://t.me) — Если мы участвуем в одних олимпиадах или хакатонах — всегда рад обсудить интересную задачу или алгоритм!
+---
+
+### 🐍 GitHub Contribution Graph Animation
+<p align="center">
+  <img src="https://blob.githubusercontent.com/edolisoma/edolisoma/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
