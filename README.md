@@ -9,8 +9,8 @@
 
 * 🔭 **Текущий фокус:** Прокачиваю алгоритмическую базу, изучаю структуры данных и готовлюсь к студенческим олимпиадам по программированию.
 * 🌱 **Процесс обучения:** Углубляю знания Python (прохожу курс от University of Helsinki на MOOC.fi), осваиваю дискретную математику и параллельно начинаю погружаться в C++.
-* 🏆 **Соревнования:** Участвую в олимпиадах по программированию (включая ICPC) и математических хакатонах/конкурсах. Увлекаюсь горными лыжами.
-* ⚡ **Интересы:**Занимаюсь инженерным 3D-моделированием. Катаюсь на горных лыжах.
+* 🏆 **Соревнования:** Участвую в олимпиадах по программированию (включая ICPC) и математических хакатонах/конкурсах.
+* ⚡ **Интересы:** Занимаюсь инженерным 3D-моделированием. Катаюсь на горных лыжах.
 
 ---
 
@@ -24,19 +24,19 @@
 ### 🛠️ Мой технологический стек
 
 * **Языки программирования:** 
-  ![Python](https://shields.io) ![C++](https://shields.io)
+  <img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="C++" />
 * **Инструменты и среды разработки:** 
-  ![VS Code](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io)
+  <img src="https://shields.io" alt="VS Code" /> <img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="GitHub" />
 * **Инженерный софт:** 
-  ![КОМПАС-3D](https://shields.io)
+  <img src="https://shields.io" alt="КОМПАС-3D" />
 
 ---
 
 ### 📊 Моя GitHub Статистика
 
 <p align="center">
-  <img src="https://vercel.app" width="48%" alt="GitHub Stats" />
-  <img src="https://vercel.app" width="48%" alt="Top Languages" />
+  <img src="https://vercel.app" width="49%" alt="GitHub Stats" />
+  <img src="https://vercel.app" width="49%" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -47,17 +47,10 @@
 
 ### 🐍 GitHub Contribution Graph Animation
 <p align="center">
-  <img src="https://githubusercontent.com" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/edolisoma/edolisoma/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
 
 ### 🤝 Связь
 * ✈️ **Telegram:** [@edolisoma](https://t.me) — Если мы участвуем в одних олимпиадах или хакатонах — всегда рад обсудить интересную задачу или алгоритм!
----
-
-### 🐍 GitHub Contribution Graph Animation
-<p align="center">
-  <img src="https://blob.githubusercontent.com/edolisoma/edolisoma/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
