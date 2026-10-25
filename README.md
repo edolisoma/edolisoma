@@ -47,10 +47,6 @@
 
 ---
 
-### 🐍 GitHub Contribution Graph Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/edolisoma/edolisoma/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
 
 ---
 ### 📊 Мой 3D Инженерный Код-Профиль
