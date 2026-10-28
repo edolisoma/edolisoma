@@ -55,6 +55,6 @@
   <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Profile Contrib" />
 </p>
 
-### 🤝 Связь
+### 🤝 Связь.
 * ✈️ **Telegram:** [@edolisoma](https://t.me)
 
